@@ -2,6 +2,6 @@
 .vagrant
 stub.yml
 credentials.yml
-tmp
+*.tmp
 vendor/*
 site
